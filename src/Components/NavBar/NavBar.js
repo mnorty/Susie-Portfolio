@@ -7,7 +7,12 @@ const NavBar = () => {
     <div>
       <div className='mainNavBar'>
           <h1>Logo</h1>
-          <h1>Links</h1>
+          <div className='linkContainer'>
+            <p>Portfolio</p>
+            <p>Info</p>
+            <p>Blog</p>
+            <p>Shop</p>
+          </div>
           <h1>Social</h1>
       </div>
       <div className='signatureheader'>
