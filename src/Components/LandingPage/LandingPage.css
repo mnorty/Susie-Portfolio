@@ -34,7 +34,7 @@
 .updateHeader{
   height:15vh;
   width:100%;
-  background-color:lightgray;
+  background-color:#BBDFF7;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -44,5 +44,5 @@
 .updateDisplay{
   height:75vh;
   width:100%;
-  background-color:lightblue;
+  background-color:#EAF6FD;
 }

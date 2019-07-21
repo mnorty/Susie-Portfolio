@@ -1,7 +1,7 @@
 .mainNavBar{
   height:7vh;
   width:100%;
-  background-color: lightblue;
+  background-color: #BBDFF7;
   /* position:fixed; */
   display: flex;
   flex-direction: row;
@@ -12,7 +12,7 @@
 .signatureheader{
   height:10vh;
   width:100%;
-  background-color:rgba(96, 183, 205, 0.5);
+  background-color:rgba(187, 223, 247, 0.5);
   display: flex;
   align-items:center;
   justify-content: center;
