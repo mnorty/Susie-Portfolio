@@ -8,11 +8,12 @@ const NavBar = () => {
       <div className='mainNavBar'>
           <h1>Logo</h1>
           <div className='linkContainer'>
-            <p>Portfolio</p>
-            <p>Info</p>
-            <p>Blog</p>
-            <p>Shop</p>
-            <p>Contact</p>
+            <Link to='/' className='linkStyling'>Home</Link>
+            <Link to='/portfolio' className='linkStyling'>Portfolio</Link>
+            <Link to='/info' className='linkStyling'>Info</Link>
+            <Link to='/blog' className='linkStyling'>Blog</Link>
+            <Link to='/shop' className='linkStyling'>Shop</Link>
+            <Link to='/contact' className='linkStyling'>Contact</Link>
           </div>
           <h1>Social</h1>
       </div>

@@ -6,3 +6,13 @@
 .App-link {
   color: #61dafb;
 }
+
+.headerSpacer{
+  height:10vh;
+  width:100%;
+  background-color:red;
+}
+
+.linkStyling{
+  text-decoration: none;
+}

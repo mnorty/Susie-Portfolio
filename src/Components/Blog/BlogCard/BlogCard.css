@@ -1,0 +1,27 @@
+.BlogCardContainer{
+  height:100vh;
+  width:65vw;
+  background-color:lightsteelblue;
+  margin-top:3vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.blogPic{
+  height:50vh;
+  width:50vw;
+  background-image:url("../../../assets/SusiePic3.jpg");
+}
+
+.blogPostTitle{
+  margin-top:2rem;
+  font-size: 2.3rem;
+  margin-bottom:.3rem;
+}
+
+.blogCardText{
+  margin-top:1.5rem;
+  font-size: 1.2rem;
+  margin-bottom:1rem;
+}

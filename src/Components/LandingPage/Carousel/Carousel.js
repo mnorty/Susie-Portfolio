@@ -9,7 +9,7 @@ import './Carousel.css'
 const ImageCarousel = () => {
   return(
     <div>
-      <Carousel autoPlay={true} showThumbs={false} height={100} showStatus={false}>
+      <Carousel autoPlay={true} showThumbs={false} height={100} showStatus={false} infiniteLoop={true} stopOnHover={false}>
           <div className='carouselCard'>
             <img src={imageOne} />
           </div>

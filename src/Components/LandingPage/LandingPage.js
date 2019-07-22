@@ -5,10 +5,6 @@ import Carousel from './Carousel/Carousel'
 const LandingPage = () => {
   return(
     <div className='landingPage'>
-      {/* <div className = 'testCube'>
-        <div>This will be a Carosel</div>
-
-      </div> */}
       <Carousel/>
       <div className='latestUpdates'>
         <div className='updateContainer'>
