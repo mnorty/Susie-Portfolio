@@ -1,14 +1,14 @@
 .mainNavBar{
   height:7vh;
   width:100%;
-  background-color: #BBDFF7;
+  background-color: #34C1BB;
   /* position:fixed; */
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
 }
-
+/* E1F7F6 susie like */
 .signatureheader{
   height:10vh;
   width:100%;
